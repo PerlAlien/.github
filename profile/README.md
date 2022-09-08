@@ -14,7 +14,7 @@ on the link to access the channel in your browser if you do not otherwise have a
 you want to make against modules in the `Alien::Build` ecosystem, then please do make them against the appropriate GitHub repositories in
 this org.
 
-We also have a website for the project at [https://alienfile.org](alienfile.org).  It includes a comprehensive set of documentation
+We also have a website for the project at [alienfile.org](https://alienfile.org).  It includes a comprehensive set of documentation
 for all CPAN modules managed by the project, and a blog where new features are discussed periodically.
 
 Thanks!
